@@ -27,10 +27,9 @@ Boas-vindas ao meu perfil! Confira meus projetos abaixo. 👨🏻‍💻
 
 ### 🖥️ **Habilidades**  
 • Inglês avançado  
-• Base sólida em ciências exatas  
-• Python (+5 anos)  
+• Base sólida em ciências exatas: álgebra linear e cálculo.  
+• Python (+5 anos)
 • SQL  
-• Linux/Bash  
 • Git/GitHub  
 • Manipulação de dados: Pandas, Numpy e PySpark  
 • Visualização de dados: EDA com Matplotlib e Seaborn  
@@ -39,4 +38,6 @@ Boas-vindas ao meu perfil! Confira meus projetos abaixo. 👨🏻‍💻
 • Deep learning (Keras)  
 • NLP (processamento de linguagem natural)  
 • Storytelling e didática  
-
+• Linux/Bash  
+• C
+• HTML / CSS / Flask
