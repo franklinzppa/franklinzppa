@@ -26,18 +26,16 @@ Boas-vindas ao meu perfil! Confira meus projetos abaixo. 👨🏻‍💻
 • Graduado em química (UFRPE)  
 
 ### 🖥️ **Habilidades**  
-• Inglês avançado  
-• Base sólida em ciências exatas: álgebra linear e cálculo.  
-• Python (+5 anos)
-• SQL  
-• Git/GitHub  
-• Manipulação de dados: Pandas, Numpy e PySpark  
-• Visualização de dados: EDA com Matplotlib e Seaborn  
-• Estatística/Matemática: Scipy  
-• Machine learning (Scikit-learn: classificação, regressão e clusterização)  
+ 
+• Linguagens de programação: Python, C
+• SQL: SQLite, BigQuery
+• Git/GitHub
+• Machine learning (classificação, regressão, clusterização e recomendação) 
+• Manipulação de dados e visualização de dados: Pandas, Numpy, Scipy, Matplotlib, Seaborn, PySpark
 • Deep learning (Keras)  
-• NLP (processamento de linguagem natural)  
-• Storytelling e didática  
-• Linux/Bash  
-• C
-• HTML / CSS / Flask
+• NLP (processamento de linguagem natural)    
+• Linux, Shell Script
+• Web: HTML, CSS, Flask
+• Storytelling e didática
+• Base sólida em ciências exatas: álgebra linear e cálculo.  
+• Inglês avançado
