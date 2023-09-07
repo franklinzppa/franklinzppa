@@ -32,6 +32,7 @@ Boas-vindas ao meu perfil! Confira meus projetos abaixo. 👨🏻‍💻
 • Git/GitHub  
 • Machine learning (classificação, regressão, clusterização e recomendação)  
 • Manipulação de dados e visualização de dados: Pandas, Numpy, Scipy, Matplotlib, Seaborn, PySpark  
+• AWS Cloud: SageMaker, Athena, S3, Glue  
 • Deep learning (Keras)  
 • NLP (processamento de linguagem natural)   
 • Linux, Shell Script  
