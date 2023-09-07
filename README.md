@@ -27,15 +27,15 @@ Boas-vindas ao meu perfil! Confira meus projetos abaixo. 👨🏻‍💻
 
 ### 🖥️ **Habilidades**  
  
-• Linguagens de programação: Python, C
-• SQL: SQLite, BigQuery
-• Git/GitHub
-• Machine learning (classificação, regressão, clusterização e recomendação) 
-• Manipulação de dados e visualização de dados: Pandas, Numpy, Scipy, Matplotlib, Seaborn, PySpark
+• Linguagens de programação: Python, C  
+• SQL: SQLite, BigQuery  
+• Git/GitHub  
+• Machine learning (classificação, regressão, clusterização e recomendação)  
+• Manipulação de dados e visualização de dados: Pandas, Numpy, Scipy, Matplotlib, Seaborn, PySpark  
 • Deep learning (Keras)  
-• NLP (processamento de linguagem natural)    
-• Linux, Shell Script
-• Web: HTML, CSS, Flask
-• Storytelling e didática
-• Base sólida em ciências exatas: álgebra linear e cálculo.  
-• Inglês avançado
+• NLP (processamento de linguagem natural)   
+• Linux, Shell Script  
+• Web: HTML, CSS, Flask  
+• Storytelling e didática  
+• Base sólida em ciências exatas: álgebra linear e cálculo  
+• Inglês avançado  
